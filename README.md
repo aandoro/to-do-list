@@ -1,5 +1,16 @@
 # Challenge Ensolvers
 
+## Pre-requirements
+
+- nodejs 16.13
+- npm 8.1
+
+global install "forever" for run commands bash
+
+```bash
+npm install forever -g
+```
+
 ## Technologies
 
 - Nestjs 8.0
